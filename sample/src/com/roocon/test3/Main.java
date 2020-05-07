@@ -4,10 +4,13 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 
-@SuppressWarnings("serial")
 public class Main extends JFrame {
 	
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JButton jb;
 	
 	public Main() {
