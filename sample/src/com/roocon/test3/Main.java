@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 @SuppressWarnings("serial")
 public class Main extends JFrame {
 	
+	
 	private JButton jb;
 	
 	public Main() {
