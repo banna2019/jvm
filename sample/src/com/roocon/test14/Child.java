@@ -14,4 +14,6 @@ public class Child extends Parent {
 		
 	}
 	
+	public static final int a = 20;
+	
 }
